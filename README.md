@@ -1,7 +1,7 @@
 # Parking Frenzy (Prototype)
 
 **Parking Frenzy** is a 3D Unity prototype where the player drives a car and parks it in designated spots to complete the level. The challenge is to park without hitting obstacles like footpaths or other cars.
-Watch the attached video for gameplay.  
+ 
 ---
 
 ## Gameplay
